@@ -1,6 +1,6 @@
 Demonstration of OOP concepts in C++. Worked on multiple concepts such as; 
   
-  Inheritance
+  Inheritance,
   Multiple inheritance, 
   Virtual member functions, 
   Pointers & references,
