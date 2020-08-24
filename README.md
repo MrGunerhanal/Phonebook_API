@@ -4,6 +4,6 @@ Demonstration of OOP concepts in C++. Worked on multiple concepts such as;
   Multiple inheritance, 
   Virtual member functions, 
   Pointers & references,
-  Pperator overriding
+  Operator overriding
 
 and so much more !!!
